@@ -23,8 +23,9 @@ body {
 	font-size: 1em;
 }
 
-.img {
+img {
 	text-align: left;
+	margin-top: 30px;
 }
 
 .video-title {
