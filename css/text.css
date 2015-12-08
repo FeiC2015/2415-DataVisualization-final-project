@@ -1,0 +1,128 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 400;
+	background-color: #DDE4E9;
+	/*border: 1px solid steelblue;*/
+	padding: 20px 20px 20px 20px;
+}
+
+.row {
+	margin-top: 30px;
+}
+
+.title {
+	font-size: 3em;
+	
+}
+
+.subtitle {
+	font-size: 1.5em;
+}
+
+.context {
+	font-size: 1em;
+}
+
+.img {
+	text-align: left;
+}
+
+.video-title {
+	font-size: 1.2em;
+}
+
+
+.btn:after {
+	font-family: "Glyphicons Halflings";
+	content: "\e114";
+	float: right;
+	margin-left: 15px;
+}
+	/* Icon when the collapsible content is hidden */
+.btn.collapsed:after {
+	content: "\e080";
+}
+
+.collapse {
+	margin-top: 15px;
+}
+
+
+/* opening.html */
+table.center {
+	margin-left:0%; 
+	margin-right:auto;
+	margin-top:0%;
+	width: 50%
+}
+
+
+/* parallelCoordinates.html */
+#glyph {
+	/*border: 1px solid steelblue;*/
+}
+
+
+.wrapper {
+	font-size: 14px;
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	margin: 100px auto 20px;
+	line-height: 1.45em;
+	text-align: center;
+/*		border: red solid 1px; */
+}
+.parallel{
+	/*margin-top: 50px 20px 20px 50px;*/
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	/*		border: red solid 1px;*/
+}
+
+#example {
+	/*margin: 50px 50px 50px 50px;*/
+	/*	border: red solid 1px;*/
+}
+
+
+
+#grid { 
+	height: 10000px;
+	width: 100%;
+}
+
+/*.row, .header { 
+	clear: left;
+	font-size: 12px;
+	line-height: 18px;
+	height: 18px;
+}
+
+.row {
+	margin-left: 0;
+}*/
+
+/*Different colors for even and odd rows*/
+/*.row:nth-child(odd) {
+	background: rgba(0,0,0,0.05);
+}*/
+
+.header{
+	font-weight: bold; 
+	font-family: Helvetica;
+	float: left; 
+	overflow: hidden; 
+	white-space: nowrap; 
+	width: 200px; 
+	height: 18px; 
+	text-align: center;
+/*	border: solid 1px red;*/
+}
+.cell {
+	float: left; 
+	overflow: hidden; 
+	white-space: nowrap; 
+	width: 200px; /* should be the same with .header */
+	height: 18px; /* should be the same with .header */
+	text-align: center;
+}
+
+

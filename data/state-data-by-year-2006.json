@@ -1,0 +1,512 @@
+{
+  "Alabama":{
+    "state":"Alabama",
+    "income":38783,
+    "GDP":165131,
+    "median-house-value ($, no mortgage)":87300,
+    "median-house-value":87300,
+    "population":4482152,
+    "poverty-population":742064,
+    "pce":25692
+  },
+  "Alaska":{
+    "state":"Alaska",
+    "income":59393,
+    "GDP":44867,
+    "median-house-value ($, no mortgage)":170500,
+    "median-house-value":170500,
+    "population":651997,
+    "poverty-population":70919,
+    "pce":37647
+  },
+  "Arizona":{
+    "state":"Arizona",
+    "income":47265,
+    "GDP":248075,
+    "median-house-value ($, no mortgage)":165600,
+    "median-house-value":165600,
+    "population":6052150,
+    "poverty-population":857349,
+    "pce":29771
+  },
+  "Arkansas":{
+    "state":"Arkansas",
+    "income":36599,
+    "GDP":95727,
+    "median-house-value ($, no mortgage)":80200,
+    "median-house-value":80200,
+    "population":2729090,
+    "poverty-population":471155,
+    "pce":24631
+  },
+  "California":{
+    "state":"California",
+    "income":56645,
+    "GDP":1868969,
+    "median-house-value ($, no mortgage)":460600,
+    "median-house-value":460600,
+    "population":35675356,
+    "poverty-population":4690140,
+    "pce":32796
+  },
+  "Colorado":{
+    "state":"Colorado",
+    "income":52015,
+    "GDP":233142,
+    "median-house-value ($, no mortgage)":208100,
+    "median-house-value":208100,
+    "population":4653251,
+    "poverty-population":556153,
+    "pce":33946
+  },
+  "Connecticut":{
+    "state":"Connecticut",
+    "income":63422,
+    "GDP":220994,
+    "median-house-value ($, no mortgage)":266400,
+    "median-house-value":266400,
+    "population":3393432,
+    "poverty-population":280108,
+    "pce":39210
+  },
+  "Delaware":{
+    "state":"Delaware",
+    "income":52833,
+    "GDP":55826,
+    "median-house-value ($, no mortgage)":189600,
+    "median-house-value":189600,
+    "population":828673,
+    "poverty-population":91962,
+    "pce":34495
+  },
+  "District of Columbia":{
+    "state":"District of Columbia",
+    "income":51847,
+    "GDP":88502,
+    "median-house-value ($, no mortgage)":379600,
+    "median-house-value":379600,
+    "population":551161,
+    "poverty-population":108100,
+    "pce":44763
+  },
+  "Florida":{
+    "state":"Florida",
+    "income":45495,
+    "GDP":748021,
+    "median-house-value ($, no mortgage)":183100,
+    "median-house-value":183100,
+    "population":17686295,
+    "poverty-population":2226587,
+    "pce":31153
+  },
+  "Georgia":{
+    "state":"Georgia",
+    "income":46832,
+    "GDP":393920,
+    "median-house-value ($, no mortgage)":119900,
+    "median-house-value":119900,
+    "population":9082715,
+    "poverty-population":1333524,
+    "pce":28234
+  },
+  "Hawaii":{
+    "state":"Hawaii",
+    "income":61160,
+    "GDP":61684,
+    "median-house-value ($, no mortgage)":515700,
+    "median-house-value":515700,
+    "population":1252117,
+    "poverty-population":116147,
+    "pce":33429
+  },
+  "Idaho":{
+    "state":"Idaho",
+    "income":42865,
+    "GDP":51821,
+    "median-house-value ($, no mortgage)":139900,
+    "median-house-value":139900,
+    "population":1431508,
+    "poverty-population":180177,
+    "pce":27438
+  },
+  "Illinois":{
+    "state":"Illinois",
+    "income":52006,
+    "GDP":623535,
+    "median-house-value ($, no mortgage)":159400,
+    "median-house-value":159400,
+    "population":12516453,
+    "poverty-population":1539033,
+    "pce":32138
+  },
+  "Indiana":{
+    "state":"Indiana",
+    "income":45394,
+    "GDP":258525,
+    "median-house-value ($, no mortgage)":101100,
+    "median-house-value":101100,
+    "population":6125557,
+    "poverty-population":777712,
+    "pce":28565
+  },
+  "Iowa":{
+    "state":"Iowa",
+    "income":44491,
+    "GDP":128346,
+    "median-house-value ($, no mortgage)":95900,
+    "median-house-value":95900,
+    "population":2878398,
+    "poverty-population":316122,
+    "pce":28604
+  },
+  "Kansas":{
+    "state":"Kansas",
+    "income":45478,
+    "GDP":113738,
+    "median-house-value ($, no mortgage)":86800,
+    "median-house-value":86800,
+    "population":2679951,
+    "poverty-population":330976,
+    "pce":28416
+  },
+  "Kentucky":{
+    "state":"Kentucky",
+    "income":39372,
+    "GDP":152394,
+    "median-house-value ($, no mortgage)":87400,
+    "median-house-value":87400,
+    "population":4087474,
+    "poverty-population":693479,
+    "pce":26415
+  },
+  "Louisiana":{
+    "state":"Louisiana",
+    "income":39337,
+    "GDP":207944,
+    "median-house-value ($, no mortgage)":87700,
+    "median-house-value":87700,
+    "population":4165324,
+    "poverty-population":793223,
+    "pce":27065
+  },
+  "Maine":{
+    "state":"Maine",
+    "income":43439,
+    "GDP":48175,
+    "median-house-value ($, no mortgage)":147600,
+    "median-house-value":147600,
+    "population":1285599,
+    "poverty-population":165956,
+    "pce":33659
+  },
+  "Maryland":{
+    "state":"Maryland",
+    "income":65144,
+    "GDP":278216,
+    "median-house-value ($, no mortgage)":255000,
+    "median-house-value":255000,
+    "population":5475889,
+    "poverty-population":428345,
+    "pce":35228
+  },
+  "Massachusetts":{
+    "state":"Massachusetts",
+    "income":59963,
+    "GDP":359256,
+    "median-house-value ($, no mortgage)":347900,
+    "median-house-value":347900,
+    "population":6235586,
+    "poverty-population":620188,
+    "pce":40316
+  },
+  "Michigan":{
+    "state":"Michigan",
+    "income":47182,
+    "GDP":397295,
+    "median-house-value ($, no mortgage)":130800,
+    "median-house-value":130800,
+    "population":9852543,
+    "poverty-population":1331833,
+    "pce":29850
+  },
+  "Minnesota":{
+    "state":"Minnesota",
+    "income":54023,
+    "GDP":251221,
+    "median-house-value ($, no mortgage)":173800,
+    "median-house-value":173800,
+    "population":5036852,
+    "poverty-population":491633,
+    "pce":34247
+  },
+  "Mississippi":{
+    "state":"Mississippi",
+    "income":34473,
+    "GDP":87302,
+    "median-house-value ($, no mortgage)":76400,
+    "median-house-value":76400,
+    "population":2815425,
+    "poverty-population":592743,
+    "pce":24187
+  },
+  "Missouri":{
+    "state":"Missouri",
+    "income":42841,
+    "GDP":234124,
+    "median-house-value ($, no mortgage)":110500,
+    "median-house-value":110500,
+    "population":5674490,
+    "poverty-population":769584,
+    "pce":29233
+  },
+  "Montana":{
+    "state":"Montana",
+    "income":40627,
+    "GDP":32635,
+    "median-house-value ($, no mortgage)":129800,
+    "median-house-value":129800,
+    "population":921449,
+    "poverty-population":125655,
+    "pce":30367
+  },
+  "Nebraska":{
+    "state":"Nebraska",
+    "income":45474,
+    "GDP":78581,
+    "median-house-value ($, no mortgage)":95400,
+    "median-house-value":95400,
+    "population":1715413,
+    "poverty-population":197037,
+    "pce":29910
+  },
+  "Nevada":{
+    "state":"Nevada",
+    "income":52998,
+    "GDP":125387,
+    "median-house-value ($, no mortgage)":244800,
+    "median-house-value":244800,
+    "population":2460755,
+    "poverty-population":253713,
+    "pce":31064
+  },
+  "New Hampshire":{
+    "state":"New Hampshire",
+    "income":59683,
+    "GDP":58492,
+    "median-house-value ($, no mortgage)":220000,
+    "median-house-value":220000,
+    "population":1276753,
+    "poverty-population":102404,
+    "pce":38218
+  },
+  "New Jersey":{
+    "state":"New Jersey",
+    "income":64470,
+    "GDP":466524,
+    "median-house-value ($, no mortgage)":327800,
+    "median-house-value":327800,
+    "population":8540402,
+    "poverty-population":741873,
+    "pce":39175
+  },
+  "New Mexico":{
+    "state":"New Mexico",
+    "income":40629,
+    "GDP":77536,
+    "median-house-value ($, no mortgage)":107600,
+    "median-house-value":107600,
+    "population":1912288,
+    "poverty-population":353694,
+    "pce":27707
+  },
+  "New York":{
+    "state":"New York",
+    "income":51384,
+    "GDP":1083194,
+    "median-house-value ($, no mortgage)":226300,
+    "median-house-value":226300,
+    "population":18770190,
+    "poverty-population":2662199,
+    "pce":34759
+  },
+  "North Carolina":{
+    "state":"North Carolina",
+    "income":42625,
+    "GDP":386354,
+    "median-house-value ($, no mortgage)":112400,
+    "median-house-value":112400,
+    "population":8591303,
+    "poverty-population":1261078,
+    "pce":26661
+  },
+  "North Dakota":{
+    "state":"North Dakota",
+    "income":41919,
+    "GDP":26491,
+    "median-house-value ($, no mortgage)":78600,
+    "median-house-value":78600,
+    "population":605883,
+    "poverty-population":69356,
+    "pce":30914
+  },
+  "Ohio":{
+    "state":"Ohio",
+    "income":44532,
+    "GDP":482227,
+    "median-house-value ($, no mortgage)":117400,
+    "median-house-value":117400,
+    "population":11156019,
+    "poverty-population":1486363,
+    "pce":29264
+  },
+  "Oklahoma":{
+    "state":"Oklahoma",
+    "income":38770,
+    "GDP":136804,
+    "median-house-value ($, no mortgage)":80700,
+    "median-house-value":80700,
+    "population":3461976,
+    "poverty-population":587591,
+    "pce":25699
+  },
+  "Oregon":{
+    "state":"Oregon",
+    "income":46230,
+    "GDP":163033,
+    "median-house-value ($, no mortgage)":205300,
+    "median-house-value":205300,
+    "population":3626910,
+    "poverty-population":480613,
+    "pce":31403
+  },
+  "Pennsylvania":{
+    "state":"Pennsylvania",
+    "income":46259,
+    "GDP":529969,
+    "median-house-value ($, no mortgage)":114600,
+    "median-house-value":114600,
+    "population":12015358,
+    "poverty-population":1448228,
+    "pce":31539
+  },
+  "Rhode Island":{
+    "state":"Rhode Island",
+    "income":51814,
+    "GDP":47659,
+    "median-house-value ($, no mortgage)":262000,
+    "median-house-value":262000,
+    "population":1026114,
+    "poverty-population":114066,
+    "pce":33462
+  },
+  "South Carolina":{
+    "state":"South Carolina",
+    "income":41100,
+    "GDP":152802,
+    "median-house-value ($, no mortgage)":97500,
+    "median-house-value":97500,
+    "population":4182874,
+    "poverty-population":656154,
+    "pce":26907
+  },
+  "South Dakota":{
+    "state":"South Dakota",
+    "income":42791,
+    "GDP":32455,
+    "median-house-value ($, no mortgage)":89200,
+    "median-house-value":89200,
+    "population":753221,
+    "poverty-population":102184,
+    "pce":29706
+  },
+  "Tennessee":{
+    "state":"Tennessee",
+    "income":40315,
+    "GDP":239425,
+    "median-house-value ($, no mortgage)":106300,
+    "median-house-value":106300,
+    "population":5877686,
+    "poverty-population":952256,
+    "pce":27355
+  },
+  "Texas":{
+    "state":"Texas",
+    "income":44922,
+    "GDP":1094064,
+    "median-house-value ($, no mortgage)":85900,
+    "median-house-value":85900,
+    "population":22887307,
+    "poverty-population":3868689,
+    "pce":28379
+  },
+  "Utah":{
+    "state":"Utah",
+    "income":51309,
+    "GDP":106308,
+    "median-house-value ($, no mortgage)":177200,
+    "median-house-value":177200,
+    "population":2508619,
+    "poverty-population":265432,
+    "pce":28115
+  },
+  "Vermont":{
+    "state":"Vermont",
+    "income":47665,
+    "GDP":24251,
+    "median-house-value ($, no mortgage)":171000,
+    "median-house-value":171000,
+    "population":603568,
+    "poverty-population":62281,
+    "pce":35638
+  },
+  "Virginia":{
+    "state":"Virginia",
+    "income":56277,
+    "GDP":378445,
+    "median-house-value ($, no mortgage)":161000,
+    "median-house-value":161000,
+    "population":7404188,
+    "poverty-population":708568,
+    "pce":33070
+  },
+  "Washington":{
+    "state":"Washington",
+    "income":52583,
+    "GDP":315723,
+    "median-house-value ($, no mortgage)":224200,
+    "median-house-value":224200,
+    "population":6261127,
+    "poverty-population":736963,
+    "pce":33495
+  },
+  "West Virginia":{
+    "state":"West Virginia",
+    "income":35059,
+    "GDP":56748,
+    "median-house-value ($, no mortgage)":78100,
+    "median-house-value":78100,
+    "population":1770974,
+    "poverty-population":307020,
+    "pce":25417
+  },
+  "Wisconsin":{
+    "state":"Wisconsin",
+    "income":48772,
+    "GDP":236444,
+    "median-house-value ($, no mortgage)":146500,
+    "median-house-value":146500,
+    "population":5401346,
+    "poverty-population":591850,
+    "pce":30772
+  },
+  "Wyoming":{
+    "state":"Wyoming",
+    "income":47423,
+    "GDP":33049,
+    "median-house-value ($, no mortgage)":130300,
+    "median-house-value":130300,
+    "population":499930,
+    "poverty-population":46774,
+    "pce":32651
+  }
+}

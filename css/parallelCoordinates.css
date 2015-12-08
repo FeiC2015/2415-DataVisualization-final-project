@@ -1,0 +1,64 @@
+
+/* 
+Created on : Dec 4, 2015, Dec 4, 2015 6:32:27 PM
+Author     : Xiaofei Chen
+*/
+
+.wrapper {
+	font-size: 14px;
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	margin: 50px auto 20px;
+	line-height: 1.45em;
+	text-align: center;
+/*		border: red solid 1px; */
+}
+.parallel{
+	margin-top: 50px 20px 20px 50px;
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	/*		border: red solid 1px;*/
+}
+
+#example {
+	margin: 50px 50px 50px 50px;
+	/*	border: red solid 1px;*/
+}
+
+#grid { 
+	height: 10000px;
+	margin: 50px 50px 50px 50px;
+	/*	border: solid red 1px;*/
+}
+
+.row, .header { 
+	clear: left;
+	font-size: 12px;
+	line-height: 18px;
+	height: 18px;
+}
+
+/*Different colors for even and odd rows*/
+.row:nth-child(odd) {
+	background: rgba(0,0,0,0.05);
+}
+
+.header { 
+	font-weight: bold; 
+	font-family: Helvetica;
+}
+
+.header{
+	float: left; 
+	overflow: hidden; 
+	white-space: nowrap; 
+	width: 200px; 
+	height: 18px; 
+	text-align: center;
+/*	border: solid 1px red;*/
+}
+.cell {
+	float: left; 
+	overflow: hidden; 
+	white-space: nowrap; 
+	width: 200px; /* should be the same with .header */
+	height: 18px; /* should be the same with .header */
+}
